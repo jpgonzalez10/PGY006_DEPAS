@@ -29,3 +29,9 @@ def printr(texto):
 
 def compraDepa(piso,columna):
     pass
+
+def pagar(costo,pagar):
+    pass
+
+def buscarDueno():
+    pass
