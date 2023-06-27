@@ -20,3 +20,12 @@ def dibujarEdificio():
         print(" ")
            
 dibujarEdificio()
+
+def limpiarPantalla():
+    pass
+
+def printr(texto):
+    pass
+
+def compraDepa(piso,columna):
+    pass
